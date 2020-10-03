@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lizarb.Validador", "Lizarb.Valida\Lizarb.Validador.csproj", "{9F4E0A3B-4515-46DA-9345-C19F3E14A1BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lizarb.ES", "Lizarb.ES\Lizarb.ES.csproj", "{7127D35E-782C-4E44-BA74-7128652591E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Anotacoes", "Anotacoes", "{A000B2DF-FE9A-4CD0-A3EF-C983705B8A3E}"
+	ProjectSection(SolutionItems) = preProject
+		git.txt = git.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Valida", "Valida", "{D2C41CA6-FBC6-443F-8021-D3524718E544}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ES", "ES", "{7C826D7E-D804-499E-8D77-AD8992547E94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lizarb.Validador.Test", "Lizarb.Valida.Test\Lizarb.Validador.Test.csproj", "{28B84E29-09B7-4C20-A56E-1F46992E34C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F4E0A3B-4515-46DA-9345-C19F3E14A1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4E0A3B-4515-46DA-9345-C19F3E14A1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4E0A3B-4515-46DA-9345-C19F3E14A1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4E0A3B-4515-46DA-9345-C19F3E14A1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7127D35E-782C-4E44-BA74-7128652591E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7127D35E-782C-4E44-BA74-7128652591E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7127D35E-782C-4E44-BA74-7128652591E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7127D35E-782C-4E44-BA74-7128652591E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28B84E29-09B7-4C20-A56E-1F46992E34C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B84E29-09B7-4C20-A56E-1F46992E34C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B84E29-09B7-4C20-A56E-1F46992E34C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B84E29-09B7-4C20-A56E-1F46992E34C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9F4E0A3B-4515-46DA-9345-C19F3E14A1BD} = {D2C41CA6-FBC6-443F-8021-D3524718E544}
+		{7127D35E-782C-4E44-BA74-7128652591E5} = {7C826D7E-D804-499E-8D77-AD8992547E94}
+		{28B84E29-09B7-4C20-A56E-1F46992E34C2} = {D2C41CA6-FBC6-443F-8021-D3524718E544}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19325D00-386C-4803-AF7A-F9658539CF36}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+D:\Projetos\Lizarb\Lizarb\Lizarb.Valida\bin\Debug\netcoreapp3.1\Lizarb.Validador.deps.json
+D:\Projetos\Lizarb\Lizarb\Lizarb.Valida\bin\Debug\netcoreapp3.1\Lizarb.Validador.dll
+D:\Projetos\Lizarb\Lizarb\Lizarb.Valida\bin\Debug\netcoreapp3.1\Lizarb.Validador.pdb
+D:\Projetos\Lizarb\Lizarb\Lizarb.Valida\obj\Debug\netcoreapp3.1\Lizarb.Validador.AssemblyInfoInputs.cache
+D:\Projetos\Lizarb\Lizarb\Lizarb.Valida\obj\Debug\netcoreapp3.1\Lizarb.Validador.AssemblyInfo.cs
+D:\Projetos\Lizarb\Lizarb\Lizarb.Valida\obj\Debug\netcoreapp3.1\Lizarb.Validador.csproj.CoreCompileInputs.cache
+D:\Projetos\Lizarb\Lizarb\Lizarb.Valida\obj\Debug\netcoreapp3.1\Lizarb.Validador.dll
+D:\Projetos\Lizarb\Lizarb\Lizarb.Valida\obj\Debug\netcoreapp3.1\Lizarb.Validador.pdb
+D:\Projetos\Lizarb\Lizarb\Lizarb.Valida\obj\Debug\netcoreapp3.1\Lizarb.Validador.csprojAssemblyReference.cache

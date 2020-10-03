@@ -1,8 +1,0 @@
-D:\Projetos\Lizarb\Lizarb\Lizarb.Valida\bin\Debug\netcoreapp3.1\Lizarb.Valida.deps.json
-D:\Projetos\Lizarb\Lizarb\Lizarb.Valida\bin\Debug\netcoreapp3.1\Lizarb.Valida.dll
-D:\Projetos\Lizarb\Lizarb\Lizarb.Valida\bin\Debug\netcoreapp3.1\Lizarb.Valida.pdb
-D:\Projetos\Lizarb\Lizarb\Lizarb.Valida\obj\Debug\netcoreapp3.1\Lizarb.Valida.AssemblyInfoInputs.cache
-D:\Projetos\Lizarb\Lizarb\Lizarb.Valida\obj\Debug\netcoreapp3.1\Lizarb.Valida.AssemblyInfo.cs
-D:\Projetos\Lizarb\Lizarb\Lizarb.Valida\obj\Debug\netcoreapp3.1\Lizarb.Valida.csproj.CoreCompileInputs.cache
-D:\Projetos\Lizarb\Lizarb\Lizarb.Valida\obj\Debug\netcoreapp3.1\Lizarb.Valida.dll
-D:\Projetos\Lizarb\Lizarb\Lizarb.Valida\obj\Debug\netcoreapp3.1\Lizarb.Valida.pdb
