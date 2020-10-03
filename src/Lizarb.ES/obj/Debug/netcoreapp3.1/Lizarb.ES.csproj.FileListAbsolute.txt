@@ -7,3 +7,12 @@ D:\Projetos\Lizarb\Lizarb\Lizarb.ES\obj\Debug\netcoreapp3.1\Lizarb.ES.csproj.Cor
 D:\Projetos\Lizarb\Lizarb\Lizarb.ES\obj\Debug\netcoreapp3.1\Lizarb.ES.dll
 D:\Projetos\Lizarb\Lizarb\Lizarb.ES\obj\Debug\netcoreapp3.1\Lizarb.ES.pdb
 D:\Projetos\Lizarb\Lizarb\Lizarb.ES\obj\Debug\netcoreapp3.1\Lizarb.ES.csprojAssemblyReference.cache
+D:\Projetos\Lizarb\src\Lizarb.ES\bin\Debug\netcoreapp3.1\Lizarb.ES.deps.json
+D:\Projetos\Lizarb\src\Lizarb.ES\bin\Debug\netcoreapp3.1\Lizarb.ES.dll
+D:\Projetos\Lizarb\src\Lizarb.ES\bin\Debug\netcoreapp3.1\Lizarb.ES.pdb
+D:\Projetos\Lizarb\src\Lizarb.ES\obj\Debug\netcoreapp3.1\Lizarb.ES.csprojAssemblyReference.cache
+D:\Projetos\Lizarb\src\Lizarb.ES\obj\Debug\netcoreapp3.1\Lizarb.ES.AssemblyInfoInputs.cache
+D:\Projetos\Lizarb\src\Lizarb.ES\obj\Debug\netcoreapp3.1\Lizarb.ES.AssemblyInfo.cs
+D:\Projetos\Lizarb\src\Lizarb.ES\obj\Debug\netcoreapp3.1\Lizarb.ES.csproj.CoreCompileInputs.cache
+D:\Projetos\Lizarb\src\Lizarb.ES\obj\Debug\netcoreapp3.1\Lizarb.ES.dll
+D:\Projetos\Lizarb\src\Lizarb.ES\obj\Debug\netcoreapp3.1\Lizarb.ES.pdb
