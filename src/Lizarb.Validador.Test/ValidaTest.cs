@@ -36,18 +36,17 @@ namespace Lizarb.Validador.Test
             Span<int> teste = stackalloc int[200];
         }
 
-
         [Test]
         public void CPFTest()
         {
             for (int i = 0; i < 1_000_000; i++)
             {
-                if (!"771.189.500-33".CPF())
+                if (!"771.189.500-33".EhCpf())
                 {
                     throw new Exception("Error!");
                 }
 
-                if ("771.189.500-34".CPF())
+                if ("771.189.500-34".EhCpf())
                 {
                     throw new Exception("Error!");
                 }
@@ -59,12 +58,29 @@ namespace Lizarb.Validador.Test
         {
             for (int i = 0; i < 1_000_000; i++)
             {
-                if (!"23.514.657/0001-72".CNPJ())
+                if (!"23.514.657/0001-72".EhCnpj())
                 {
                     throw new Exception("Error!");
                 }
 
-                if ("23.514.657/0001-71".CNPJ())
+                if ("23.514.657/0001-71".EhCnpj())
+                {
+                    throw new Exception("Error!");
+                }
+            }
+        }
+
+        [Test]
+        public void PISTest()
+        {
+            for (int i = 0; i < 1_000_000; i++)
+            {
+                if (!"757.94826.40-9".EhPis())
+                {
+                    throw new Exception("Error!");
+                }
+
+                if ("757.94826.40-1".EhPis())
                 {
                     throw new Exception("Error!");
                 }

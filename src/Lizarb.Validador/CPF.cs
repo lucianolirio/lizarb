@@ -2,7 +2,7 @@
 {
     public static partial class Valida
     {
-        public static bool CPF(this string cpf)
+        public static bool EhCpf(this string cpf)
         {
             if (string.IsNullOrEmpty(cpf))
                 return false;
@@ -11,7 +11,7 @@
             int modII = 0;
             int dv1 = -1;
             int dv2 = -1;
-            int ind = 0;
+            byte ind = 0;
             int num = -1;
 
             foreach (byte c in cpf)
