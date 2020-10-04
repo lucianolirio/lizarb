@@ -11,15 +11,12 @@ namespace Lizarb.Validador
             int num = -1;
             foreach (byte d in digitos)
             {
-                if (d > 47 && d < 58)
+                if ((d > 47 && d < 58) && num != -2 && num != d)
                 {
-                    if (num != -2 && num != d)
+                    num = num == -1 ? d : -2;
+                    if (num == -2)
                     {
-                        num = num == -1 ? d : -2;
-                        if (num == -2)
-                        {
-                            return false;
-                        }
+                        return false;
                     }
                 }
             }

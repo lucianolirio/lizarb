@@ -12,7 +12,7 @@
             int dv1 = -1;
             int dv2 = -1;
             byte ind = 5;
-            int ind2 = 5;
+            byte ind2 = 5;
             byte tam = 0;
 
             foreach (byte c in cnpj)
