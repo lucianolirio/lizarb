@@ -46,7 +46,7 @@
             modII = (modII + modI * 2) % 11;
             modII = modII < 2 ? 0 : 11 - modII;
 
-            return ind == 11 && num != -2 && dv1 == modI && dv2 == modII;
+            return ind == 11 && num == -2 && dv1 == modI && dv2 == modII;
         }
     }
 }

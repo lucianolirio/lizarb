@@ -14,14 +14,17 @@
             byte ind = 5;
             int ind2 = 5;
             byte tam = 0;
+            int num = -1;
 
             foreach (byte c in cnpj)
             {
                 if (c > 47 && c < 58)
                 {
                     tam++;
-
                     var d = c - 48;
+
+                    if (num == -1 && num != d)
+                        num = num == -1 ? d : -2;
 
                     if (tam < 13)
                     {
@@ -48,7 +51,7 @@
             modII = (modII + modI * 2) % 11;
             modII = modII < 2 ? 0 : 11 - modII;
 
-            return tam == 14 &&  dv1 == modI && dv2 == modII;
+            return tam == 14 && num == -2 &&  dv1 == modI && dv2 == modII;
         }
     }
 }

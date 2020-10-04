@@ -1,7 +1,6 @@
 using NUnit.Framework;
 using System;
 using System.Diagnostics;
-using Lizarb.Validador;
 
 namespace Lizarb.Validador.Test
 {
@@ -58,7 +57,7 @@ namespace Lizarb.Validador.Test
         {
             for (int i = 0; i < 1_000_000; i++)
             {
-                if (!"23.514.657/0001-72".EhCnpj())
+                if (!"00.000.000/0000-00".EhCnpj())
                 {
                     throw new Exception("Error!");
                 }
