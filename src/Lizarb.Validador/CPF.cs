@@ -20,7 +20,7 @@
                 {
                     var d = c - 48;
 
-                    if (num == -1 && num != d)
+                    if (num != -2 && num != d)
                         num = num == -1 ? d : -2;
 
                     if (ind < 9)

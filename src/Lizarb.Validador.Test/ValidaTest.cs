@@ -57,7 +57,7 @@ namespace Lizarb.Validador.Test
         {
             for (int i = 0; i < 1_000_000; i++)
             {
-                if (!"00.000.000/0000-00".EhCnpj())
+                if (!"23.514.657/0001-72".EhCnpj())
                 {
                     throw new Exception("Error!");
                 }
